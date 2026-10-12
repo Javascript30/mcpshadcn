@@ -22,7 +22,8 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Editor and OS files
-.vscode/
+.vscode/*
+!.vscode/mcp.json
 .idea/
 .DS_Store
 Thumbs.db
