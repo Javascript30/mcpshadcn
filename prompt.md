@@ -1,0 +1,1 @@
+Refactor the entire Kanban board using appropriate shadcn components. Preserve all existing functionality, state management and data structures. Use Shadcn components for cards, buttons, badges, dropdown menus, dialogs and form controls. Improve visual consistency and responsive layout, but do not add new features or change how the board works.
